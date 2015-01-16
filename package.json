@@ -1,0 +1,25 @@
+{
+  "name": "bowling-score",
+  "version": "0.0.0",
+  "description": "Bowling Score TDD Jawn",
+  "main": "bowl.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -wG"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethanmcc/bowling-score.git"
+  },
+  "author": "Ethan McCreadie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanmcc/bowling-score/issues"
+  },
+  "homepage": "https://github.com/ethanmcc/bowling-score",
+  "devDependencies": {
+    "should": "^4.4.1"
+  }
+}
